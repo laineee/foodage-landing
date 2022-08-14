@@ -23,7 +23,7 @@ export default function Home() {
           The easiest way to search, compare, and manage material EPD data.
           
         </p>
-        <a>Get early access</a>
+        <a href='https://tally.so/r/mBzeQQ' target="_blank">Get early access</a>
         <div className={styles.imagewrapper}>
         <Image 
           src="/screen.png"  
