@@ -40,11 +40,18 @@
 
 .toplogo {
   font-size: 3rem;
-  padding: 2rem;
   font-weight: 500;
-  opacity: 80%;
-  color: #f3ec78;
+  opacity: 100%;
+  color: #ccc554;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.topbar {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 5px;
+  align-items: center;
 }
 
 .title {

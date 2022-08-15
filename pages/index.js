@@ -14,7 +14,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.toplogo}>tuuli</h1>
+        <div className={styles.topbar}>
+          <Image src="/logo.png" width={40} height={40} layout={"fixed"}/>
+          <h1 className={styles.toplogo}>tuuli</h1>
+        </div>
         <h1 className={styles.title}>
           Manage material data - like <span className={styles.gradient}> magic</span>
         </h1>
