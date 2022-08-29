@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>tuuli - Find and manage your material data</title>
+        <title>foodage - Lower your COGS by predicting future demand</title>
         <meta name="description" content="The first integrated platform for material data discovery and management. We cut the time it takes for sustainable material selection by 80%."/>
         <meta property="og:title" content="Find and manage your material data - tuuli"/>
         <meta property="og:description" content="The first integrated platform for material data discovery and management. We cut the time it takes for sustainable material selection by 80%."/>
